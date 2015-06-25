@@ -1,0 +1,2 @@
+# Cognition
+Cognition is the set of all mental abilities and processes related to knowledge: attention, memory and working memory, judgment and evaluation, reasoning and "computation", problem solving and decision making, comprehension and production of language, etc. Human cognition is conscious and unconscious, concrete or abstract, as well as intuitive (like knowledge of a language) and conceptual (like a model of a language). Cognitive processes use existing knowledge and generate new knowledge
